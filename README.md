@@ -1,4 +1,5 @@
 # My-Array
+
 from array import *
 my_fruits = ["Apple", "Dalandan", "Mango", "Orange", "Pineapple"]
 print(my_fruits[1:4])
