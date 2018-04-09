@@ -1,4 +1,5 @@
 # My-Array
+#Rhina G. Pagaran
 
 from array import *
 my_fruits = ["Apple", "Dalandan", "Mango", "Orange", "Pineapple"]
